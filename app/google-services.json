@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708987803161",
+    "firebase_url": "https://urbanproyect-28d77.firebaseio.com",
+    "project_id": "urbanproyect-28d77",
+    "storage_bucket": "urbanproyect-28d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708987803161:android:6a95a021c5cbf3a8",
+        "android_client_info": {
+          "package_name": "com.victordev.urban.urbanpty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708987803161-81dg4631l09err4gnedqk3kmfljek17r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.victordev.urban.urbanpty",
+            "certificate_hash": "6f01e5d2ec336945b0f572702038d8656e928df7"
+          }
+        },
+        {
+          "client_id": "708987803161-8bdj30r4dcng0hlv035qkk1qhjqkv1d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yNZhTuDLsVCuG3wz7Jx3Ii9ZDf0vQLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708987803161-8bdj30r4dcng0hlv035qkk1qhjqkv1d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
